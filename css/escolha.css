@@ -1,0 +1,55 @@
+.escolha{
+  margin-bottom: 120px;
+}
+
+.escolha_bicicletas{
+  display: flex;
+  justify-content: center;
+  gap: 0px 40px;
+}
+
+.escolha h2{
+  font-family: 'Poppins', sans-serif;
+  max-width: 1160px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  font-size: 64px;
+  line-height: 72px;
+  font-weight: 600;
+}
+
+.escolha h3{
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 40px;
+  margin-bottom: 8px;
+}
+
+.escolha h3::before{
+  content: "";
+  width: 12px;
+  height: 8px;
+  background-color: #FFBB00;
+  display: inline-block;
+  margin-right: 8px;
+  margin-bottom: 6px;
+}
+
+.escolha h4{
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.escolha span{
+  color: #FFBB00;
+}
+
+.escolha img{
+  max-width: 460px;
+  margin-bottom: 16px;
+}

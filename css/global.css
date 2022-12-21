@@ -25,13 +25,13 @@ img{
 }
 
 .container{
-  max-width: 1150px;
+  max-width: 1160px;
 }
 
 .btn{
   font-family: 'Poppins', sans-serif;
   display: inline-block;
-  background-color: #FFBB00;
+  background: linear-gradient(180deg, #FFBF00 0%, #F2A50C 100%);
   color: #332200;
   padding: 16px 32px;
   text-transform: uppercase;
